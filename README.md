@@ -1,1 +1,1 @@
-welcome to Aaizu Nehu bot 
+welcome to Aaizu Nehu bot
